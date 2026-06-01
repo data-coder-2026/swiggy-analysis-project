@@ -18,7 +18,8 @@ To extract meaningful insights from real-world food delivery data.
 - Exploratory Data Analysis (EDA)
 - Top restaurants analysis
 - Order trends analysis
-- Peak time analysis
+- Top Categories analysis
+  
 
 ## Key Insights:
 The analysis was focused on exploring Swiggy data through various visualizations and queries.
